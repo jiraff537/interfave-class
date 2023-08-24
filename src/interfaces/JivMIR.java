@@ -1,6 +1,7 @@
 package interfaces;
 
 public interface JivMIR {
-     String move();
-     String voice();
+    String move();
+
+    String voice();
 }
