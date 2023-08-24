@@ -11,7 +11,7 @@ public class Snake implements JivMIR {
 
     @Override
     public String voice() {
-        System.out.println("SHHipit");
-        return "SHHipit";
+        System.out.println("Shhhhhhh");
+        return "Shhhhhhh";
     }
 }
